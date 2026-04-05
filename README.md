@@ -1,4 +1,4 @@
-##FocusFlow
+## FocusFlow
 
 A clean, modern study timer built to help users focus, track sessions, and visualize productivity.
 
@@ -38,13 +38,13 @@ http://localhost:5173
 
 (Port may vary depending on setup.)
 
-Usage
+## Usage
 Enter the task you want to work on.
 Start the timer.
 The circular progress indicator updates in real time.
 When the timer finishes, the session is saved automatically.
 View completed sessions and your total focus time in the history section.
-##Project Structure
+## Project Structure
 src/
 │
 ├── components/
@@ -58,12 +58,12 @@ src/
 │
 ├── App.jsx
 └── main.jsx
-Future Improvements
+## Future Improvements
 Pomodoro break system
 Daily/weekly analytics view
 Sound notifications
 Streak tracking
 Keyboard shortcuts
-##License
+## License
 
 MIT
